@@ -1,5 +1,4 @@
-# RLFold
-Reinforcement learning environment for RNA 3D Structure Prediction
+# RLFold: Reinforcement learning environment for RNA 3D Structure Prediction
 
 ##### Reinforcement Learning for RNA 3D Structure Prediction #####
 
